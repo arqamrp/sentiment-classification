@@ -33,6 +33,6 @@ The Adam optimiser, was initially used with default settings. In later iteration
 The initial loss was approximately 1.1 and after training it stood at 0.744.
 
 
-### Performance
+## Performance
 
 It achieved an F1 score of 0.656 on the given validation dataset, compared to the highest achieved score of 0.677.
